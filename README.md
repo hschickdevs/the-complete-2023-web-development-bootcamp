@@ -1,1 +1,2 @@
-https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+Learn Web Development according to 2023 standards using the MERN stack.
