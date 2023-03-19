@@ -8,14 +8,18 @@
 </head>
 <body>
     <h1>My Contact Details</h1>
-    <form action="index.html" method="post">
+    <form action="mailto:hschickdevs@gmail.com" method="post" enctype="text/plain">
         <label>Your Name:</label>
         <input type="text" name="name" placeholder="Your Name">
         <br><br>
         <label>Your Email:</label>
         <input type="email" name="email" placeholder="Your Email">
         <br><br>
-        <input type="checkbox"><label>Agree to Terms & Conditions</label>
+        <input id="info" type="checkbox"><label for="info">Agree to Share Information</label>
+        <br><br>
+        <label for="message">Your Message:</label>
+        <br>
+        <textarea name="your-message" id="message" cols="30" rows="10"></textarea>
         <br><br>
         <input type="submit">
     </form>

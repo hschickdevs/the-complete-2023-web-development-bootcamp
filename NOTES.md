@@ -33,3 +33,4 @@ Forms are used to collect user input. The following example shows a form with a 
   <input type="submit" value="Submit">
 </form>
 ```
+> See the [personal-site/contact](/content/personal-site/contact.html) page for an example of forms.
