@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+#main-div {
+    text-align: center;
+}
+
+#img-div {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 80px;
+    border: 5px solid white;
+    background-color: black;
+}
+
+img {
+    vertical-align: top;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
